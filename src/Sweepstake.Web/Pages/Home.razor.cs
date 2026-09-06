@@ -84,25 +84,6 @@ public sealed partial class Home : IAsyncDisposable
             return;
         }
 
-        // Deliberate hold -- see AppMode. The shell renders, the boards never arrive.
-        if (AppMode.StallOnLoad)
-        {
-            // Picks are in, so the season line can fill in. OnInitializedAsync never returns
-            // past this point, so this is the last render the page gets.
-            await InvokeAsync(StateHasChanged);
-
-            try
-            {
-                await Task.Delay(Timeout.InfiniteTimeSpan, _shutdown.Token);
-            }
-            catch (OperationCanceledException)
-            {
-                // Page is going away.
-            }
-
-            return;
-        }
-
         // A missing stats.json is survivable: render everyone on zero and say so.
         var stats = await TryLoadStatsAsync();
         _haveRealStats = stats is not null;
