@@ -1,5 +1,5 @@
 {
-  "generatedUtc": "2026-09-06T15:35:52Z",
+  "generatedUtc": "2026-09-06T15:56:03Z",
   "season": "2026",
   "source": "espn-core-api",
   "players": {
@@ -140,7 +140,7 @@
     },
     "231182": {
       "name": "Kai Havertz",
-      "goals": 1,
+      "goals": 2,
       "assists": 0
     },
     "203669": {
