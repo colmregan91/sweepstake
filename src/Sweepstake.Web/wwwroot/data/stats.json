@@ -1,5 +1,5 @@
 {
-  "generatedUtc": "2026-09-06T15:56:03Z",
+  "generatedUtc": "2026-09-06T17:34:57Z",
   "season": "2026",
   "source": "espn-core-api",
   "players": {
@@ -145,7 +145,7 @@
     },
     "203669": {
       "name": "Martin Ødegaard",
-      "goals": 1,
+      "goals": 2,
       "assists": 0
     },
     "243396": {
