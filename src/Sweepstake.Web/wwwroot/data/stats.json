@@ -1,5 +1,5 @@
 {
-  "generatedUtc": "2026-09-06T14:10:12Z",
+  "generatedUtc": "2026-09-06T14:50:30Z",
   "season": "2026",
   "source": "espn-core-api",
   "players": {
@@ -20,7 +20,7 @@
     },
     "289155": {
       "name": "Benjamin Šeško",
-      "goals": 0,
+      "goals": 1,
       "assists": 0
     },
     "282229": {
