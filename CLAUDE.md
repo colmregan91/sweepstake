@@ -345,8 +345,8 @@ These are the four things that break Blazor WASM on Pages. Get them right once.
    deletes Blazor's entire `_framework` folder. The symptom is a blank white page with 404s
    on `blazor.webassembly.js`. This is the single most common failure.
 2. **`<base href>`** in `index.html` must be `/<repo-name>/` for a project site, not `/`.
-   If the site is served at `user.github.io/pl-sweepstake/`, the base href is
-   `/pl-sweepstake/`. Rewrite it during the publish step rather than committing it, so
+   If the site is served at `user.github.io/sweepstake/`, the base href is
+   `/sweepstake/`. Rewrite it during the publish step rather than committing it, so
    local `dotnet run` still works with `/`.
 3. **`404.html`** must be a copy of `index.html`. Pages has no SPA rewrite rule, so any deep
    link 404s without it.

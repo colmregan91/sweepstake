@@ -11,7 +11,7 @@ namespace Sweepstake.StatsFetcher;
 internal sealed class EspnClient : IDisposable
 {
     private const string UserAgent =
-        "pl-sweepstake/1.0 (+https://github.com/colmregan91/pl-sweepstake) build-time stats fetcher";
+        "sweepstake/1.0 (+https://github.com/colmregan91/sweepstake) build-time stats fetcher";
 
     private const int MaxConcurrentRequests = 4;
 
