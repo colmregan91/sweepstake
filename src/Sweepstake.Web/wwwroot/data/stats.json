@@ -1,5 +1,5 @@
 {
-  "generatedUtc": "2026-09-06T17:34:57Z",
+  "generatedUtc": "2026-09-12T14:08:50Z",
   "season": "2026",
   "source": "espn-core-api",
   "players": {
@@ -131,7 +131,7 @@
     "284960": {
       "name": "João Pedro",
       "goals": 2,
-      "assists": 2
+      "assists": 3
     },
     "283672": {
       "name": "Jérémy Doku",
@@ -155,7 +155,7 @@
     },
     "265653": {
       "name": "Morgan Rogers",
-      "goals": 2,
+      "goals": 3,
       "assists": 1
     },
     "132659": {
