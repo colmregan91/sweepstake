@@ -1,5 +1,5 @@
 {
-  "generatedUtc": "2026-09-12T14:08:50Z",
+  "generatedUtc": "2026-09-12T15:19:18Z",
   "season": "2026",
   "source": "espn-core-api",
   "players": {
@@ -91,7 +91,7 @@
     "102368": {
       "name": "Evanilson",
       "goals": 0,
-      "assists": 2
+      "assists": 3
     },
     "303748": {
       "name": "Florian Wirtz",
