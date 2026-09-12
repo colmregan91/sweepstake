@@ -1,5 +1,5 @@
 {
-  "generatedUtc": "2026-09-12T15:54:34Z",
+  "generatedUtc": "2026-09-12T21:21:23Z",
   "season": "2026",
   "source": "espn-core-api",
   "players": {
@@ -35,7 +35,7 @@
     },
     "218522": {
       "name": "Bruno Guimarães",
-      "goals": 0,
+      "goals": 1,
       "assists": 0
     },
     "271170": {
@@ -45,7 +45,7 @@
     },
     "280555": {
       "name": "Bukayo Saka",
-      "goals": 2,
+      "goals": 3,
       "assists": 0
     },
     "134190": {
