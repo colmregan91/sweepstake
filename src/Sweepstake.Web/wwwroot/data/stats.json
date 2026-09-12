@@ -1,5 +1,5 @@
 {
-  "generatedUtc": "2026-09-12T15:19:18Z",
+  "generatedUtc": "2026-09-12T15:29:22Z",
   "season": "2026",
   "source": "espn-core-api",
   "players": {
@@ -61,7 +61,7 @@
     "296395": {
       "name": "Cole Palmer",
       "goals": 2,
-      "assists": 1
+      "assists": 2
     },
     "315530": {
       "name": "Dango Ouattara",
@@ -130,7 +130,7 @@
     },
     "284960": {
       "name": "João Pedro",
-      "goals": 2,
+      "goals": 3,
       "assists": 3
     },
     "283672": {
