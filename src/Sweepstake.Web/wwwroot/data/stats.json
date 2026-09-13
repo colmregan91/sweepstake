@@ -1,5 +1,5 @@
 {
-  "generatedUtc": "2026-09-13T14:53:37Z",
+  "generatedUtc": "2026-09-13T18:03:28Z",
   "season": "2026",
   "source": "espn-core-api",
   "players": {
@@ -85,7 +85,7 @@
     },
     "253989": {
       "name": "Erling Haaland",
-      "goals": 3,
+      "goals": 4,
       "assists": 0
     },
     "102368": {
