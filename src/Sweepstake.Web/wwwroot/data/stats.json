@@ -1,5 +1,5 @@
 {
-  "generatedUtc": "2026-09-13T18:03:28Z",
+  "generatedUtc": "2026-09-14T20:52:03Z",
   "season": "2026",
   "source": "espn-core-api",
   "players": {
@@ -75,8 +75,8 @@
     },
     "197717": {
       "name": "Dominic Calvert-Lewin",
-      "goals": 1,
-      "assists": 0
+      "goals": 2,
+      "assists": 1
     },
     "257206": {
       "name": "Dominik Szoboszlai",
