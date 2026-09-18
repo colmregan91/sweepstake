@@ -1,5 +1,5 @@
 {
-  "generatedUtc": "2026-09-14T20:52:03Z",
+  "generatedUtc": "2026-09-18T21:17:09Z",
   "season": "2026",
   "source": "espn-core-api",
   "players": {
@@ -110,7 +110,7 @@
     },
     "301894": {
       "name": "Igor Thiago",
-      "goals": 0,
+      "goals": 1,
       "assists": 0
     },
     "194450": {
