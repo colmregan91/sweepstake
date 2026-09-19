@@ -1,5 +1,5 @@
 {
-  "generatedUtc": "2026-09-18T21:17:09Z",
+  "generatedUtc": "2026-09-19T14:17:55Z",
   "season": "2026",
   "source": "espn-core-api",
   "players": {
@@ -125,8 +125,8 @@
     },
     "386992": {
       "name": "Johan Manzambi",
-      "goals": 0,
-      "assists": 0
+      "goals": 1,
+      "assists": 1
     },
     "284960": {
       "name": "João Pedro",
@@ -175,7 +175,7 @@
     },
     "301166": {
       "name": "Thierno Barry",
-      "goals": 1,
+      "goals": 2,
       "assists": 0
     },
     "258906": {
