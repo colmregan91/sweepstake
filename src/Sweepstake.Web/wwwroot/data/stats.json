@@ -1,5 +1,5 @@
 {
-  "generatedUtc": "2026-09-19T14:33:03Z",
+  "generatedUtc": "2026-09-19T15:18:24Z",
   "season": "2026",
   "source": "espn-core-api",
   "players": {
@@ -161,7 +161,7 @@
     "132659": {
       "name": "Pascal Groß",
       "goals": 3,
-      "assists": 2
+      "assists": 3
     },
     "268533": {
       "name": "Pedro Porro",
