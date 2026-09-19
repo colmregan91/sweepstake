@@ -1,5 +1,5 @@
 {
-  "generatedUtc": "2026-09-19T18:15:15Z",
+  "generatedUtc": "2026-09-19T18:20:17Z",
   "season": "2026",
   "source": "espn-core-api",
   "players": {
@@ -105,7 +105,7 @@
     },
     "287869": {
       "name": "Igor Jesus",
-      "goals": 2,
+      "goals": 1,
       "assists": 0
     },
     "301894": {
