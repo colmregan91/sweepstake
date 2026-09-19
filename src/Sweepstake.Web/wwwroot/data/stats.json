@@ -1,5 +1,5 @@
 {
-  "generatedUtc": "2026-09-19T14:17:55Z",
+  "generatedUtc": "2026-09-19T14:33:03Z",
   "season": "2026",
   "source": "espn-core-api",
   "players": {
@@ -160,7 +160,7 @@
     },
     "132659": {
       "name": "Pascal Groß",
-      "goals": 2,
+      "goals": 3,
       "assists": 2
     },
     "268533": {
