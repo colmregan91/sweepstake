@@ -1,5 +1,5 @@
 {
-  "generatedUtc": "2026-09-19T18:20:17Z",
+  "generatedUtc": "2026-09-20T14:15:13Z",
   "season": "2026",
   "source": "espn-core-api",
   "players": {
@@ -10,13 +10,13 @@
     },
     "235662": {
       "name": "Alexander Isak",
-      "goals": 3,
+      "goals": 4,
       "assists": 0
     },
     "273292": {
       "name": "Antoine Semenyo",
-      "goals": 0,
-      "assists": 2
+      "goals": 1,
+      "assists": 3
     },
     "289155": {
       "name": "Benjamin Šeško",
@@ -25,7 +25,7 @@
     },
     "282229": {
       "name": "Brian Brobbey",
-      "goals": 0,
+      "goals": 2,
       "assists": 0
     },
     "124091": {
