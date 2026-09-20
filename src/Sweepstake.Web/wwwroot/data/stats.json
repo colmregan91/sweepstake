@@ -1,5 +1,5 @@
 {
-  "generatedUtc": "2026-09-20T14:15:13Z",
+  "generatedUtc": "2026-09-20T14:38:46Z",
   "season": "2026",
   "source": "espn-core-api",
   "players": {
@@ -15,7 +15,7 @@
     },
     "273292": {
       "name": "Antoine Semenyo",
-      "goals": 1,
+      "goals": 2,
       "assists": 3
     },
     "289155": {
@@ -25,7 +25,7 @@
     },
     "282229": {
       "name": "Brian Brobbey",
-      "goals": 2,
+      "goals": 3,
       "assists": 0
     },
     "124091": {
