@@ -1,5 +1,5 @@
 {
-  "generatedUtc": "2026-09-20T14:48:51Z",
+  "generatedUtc": "2026-10-10T16:10:05Z",
   "season": "2026",
   "source": "espn-core-api",
   "players": {
@@ -35,7 +35,7 @@
     },
     "218522": {
       "name": "Bruno Guimarães",
-      "goals": 1,
+      "goals": 2,
       "assists": 0
     },
     "271170": {
@@ -61,7 +61,7 @@
     "296395": {
       "name": "Cole Palmer",
       "goals": 2,
-      "assists": 2
+      "assists": 3
     },
     "315530": {
       "name": "Dango Ouattara",
@@ -90,7 +90,7 @@
     },
     "102368": {
       "name": "Evanilson",
-      "goals": 0,
+      "goals": 1,
       "assists": 3
     },
     "303748": {
@@ -126,11 +126,11 @@
     "386992": {
       "name": "Johan Manzambi",
       "goals": 1,
-      "assists": 1
+      "assists": 2
     },
     "284960": {
       "name": "João Pedro",
-      "goals": 3,
+      "goals": 5,
       "assists": 3
     },
     "283672": {
@@ -155,13 +155,13 @@
     },
     "265653": {
       "name": "Morgan Rogers",
-      "goals": 3,
+      "goals": 4,
       "assists": 1
     },
     "132659": {
       "name": "Pascal Groß",
       "goals": 3,
-      "assists": 3
+      "assists": 4
     },
     "268533": {
       "name": "Pedro Porro",
