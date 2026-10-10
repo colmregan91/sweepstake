@@ -1,5 +1,5 @@
 {
-  "generatedUtc": "2026-10-10T16:10:05Z",
+  "generatedUtc": "2026-10-10T18:01:16Z",
   "season": "2026",
   "source": "espn-core-api",
   "players": {
@@ -40,7 +40,7 @@
     },
     "271170": {
       "name": "Bryan Mbeumo",
-      "goals": 2,
+      "goals": 3,
       "assists": 0
     },
     "280555": {
