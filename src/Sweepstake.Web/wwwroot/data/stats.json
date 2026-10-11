@@ -1,5 +1,5 @@
 {
-  "generatedUtc": "2026-10-11T16:36:41Z",
+  "generatedUtc": "2026-10-11T16:56:52Z",
   "season": "2026",
   "source": "espn-core-api",
   "players": {
@@ -85,7 +85,7 @@
     },
     "253989": {
       "name": "Erling Haaland",
-      "goals": 5,
+      "goals": 6,
       "assists": 0
     },
     "102368": {
@@ -135,7 +135,7 @@
     },
     "283672": {
       "name": "Jérémy Doku",
-      "goals": 0,
+      "goals": 1,
       "assists": 0
     },
     "231182": {
