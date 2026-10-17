@@ -1,5 +1,5 @@
 {
-  "generatedUtc": "2026-10-11T16:56:52Z",
+  "generatedUtc": "2026-10-17T14:23:38Z",
   "season": "2026",
   "source": "espn-core-api",
   "players": {
@@ -136,7 +136,7 @@
     "283672": {
       "name": "Jérémy Doku",
       "goals": 1,
-      "assists": 0
+      "assists": 1
     },
     "231182": {
       "name": "Kai Havertz",
@@ -170,7 +170,7 @@
     },
     "250787": {
       "name": "Phil Foden",
-      "goals": 0,
+      "goals": 1,
       "assists": 2
     },
     "301166": {
