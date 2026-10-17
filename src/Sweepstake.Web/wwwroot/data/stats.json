@@ -1,5 +1,5 @@
 {
-  "generatedUtc": "2026-10-17T15:39:18Z",
+  "generatedUtc": "2026-10-17T17:17:35Z",
   "season": "2026",
   "source": "espn-core-api",
   "players": {
@@ -125,7 +125,7 @@
     },
     "386992": {
       "name": "Johan Manzambi",
-      "goals": 1,
+      "goals": 2,
       "assists": 2
     },
     "284960": {
