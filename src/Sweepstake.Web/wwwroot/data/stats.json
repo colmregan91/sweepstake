@@ -1,5 +1,5 @@
 {
-  "generatedUtc": "2026-10-17T14:48:52Z",
+  "generatedUtc": "2026-10-17T15:34:15Z",
   "season": "2026",
   "source": "espn-core-api",
   "players": {
@@ -85,7 +85,7 @@
     },
     "253989": {
       "name": "Erling Haaland",
-      "goals": 7,
+      "goals": 8,
       "assists": 0
     },
     "102368": {
@@ -96,7 +96,7 @@
     "303748": {
       "name": "Florian Wirtz",
       "goals": 0,
-      "assists": 1
+      "assists": 2
     },
     "194801": {
       "name": "Harry Wilson",
