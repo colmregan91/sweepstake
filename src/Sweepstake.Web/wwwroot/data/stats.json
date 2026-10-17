@@ -1,5 +1,5 @@
 {
-  "generatedUtc": "2026-10-17T14:38:46Z",
+  "generatedUtc": "2026-10-17T14:48:52Z",
   "season": "2026",
   "source": "espn-core-api",
   "players": {
@@ -111,7 +111,7 @@
     "301894": {
       "name": "Igor Thiago",
       "goals": 1,
-      "assists": 0
+      "assists": 1
     },
     "194450": {
       "name": "James Maddison",
