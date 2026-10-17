@@ -1,11 +1,11 @@
 {
-  "generatedUtc": "2026-10-17T14:23:38Z",
+  "generatedUtc": "2026-10-17T14:38:46Z",
   "season": "2026",
   "source": "espn-core-api",
   "players": {
     "175063": {
       "name": "Alex Iwobi",
-      "goals": 0,
+      "goals": 1,
       "assists": 0
     },
     "235662": {
@@ -85,7 +85,7 @@
     },
     "253989": {
       "name": "Erling Haaland",
-      "goals": 6,
+      "goals": 7,
       "assists": 0
     },
     "102368": {
