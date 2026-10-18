@@ -1,5 +1,5 @@
 {
-  "generatedUtc": "2026-10-18T13:08:33Z",
+  "generatedUtc": "2026-10-18T14:27:14Z",
   "season": "2026",
   "source": "espn-core-api",
   "players": {
@@ -40,7 +40,7 @@
     },
     "271170": {
       "name": "Bryan Mbeumo",
-      "goals": 3,
+      "goals": 4,
       "assists": 0
     },
     "280555": {
@@ -75,7 +75,7 @@
     },
     "197717": {
       "name": "Dominic Calvert-Lewin",
-      "goals": 2,
+      "goals": 3,
       "assists": 1
     },
     "257206": {
@@ -90,7 +90,7 @@
     },
     "102368": {
       "name": "Evanilson",
-      "goals": 1,
+      "goals": 2,
       "assists": 4
     },
     "303748": {
@@ -191,7 +191,7 @@
     "193297": {
       "name": "Youri Tielemans",
       "goals": 0,
-      "assists": 0
+      "assists": 1
     }
   }
 }

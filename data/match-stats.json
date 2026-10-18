@@ -1,7 +1,7 @@
 {
   "season": "2026",
-  "updatedUtc": "2026-10-18T13:08:33Z",
-  "lastSweepUtc": "2026-10-18T13:08:33Z",
+  "updatedUtc": "2026-10-18T14:27:14Z",
+  "lastSweepUtc": "2026-10-18T14:27:14Z",
   "fixtures": {
     "401879322": {
       "firstSeenUtc": "2026-08-22T23:17:23Z",
@@ -1083,7 +1083,7 @@
     },
     "401879264": {
       "firstSeenUtc": "2026-10-11T16:36:41Z",
-      "lastReadUtc": "2026-10-18T13:08:33Z",
+      "lastReadUtc": "2026-10-18T14:27:14Z",
       "players": {
         "273292": {
           "goals": 0,
@@ -1105,7 +1105,7 @@
     },
     "401879266": {
       "firstSeenUtc": "2026-10-11T16:36:41Z",
-      "lastReadUtc": "2026-10-18T13:08:33Z",
+      "lastReadUtc": "2026-10-18T14:27:14Z",
       "players": {
         "134190": {
           "goals": 0,
@@ -1123,7 +1123,7 @@
     },
     "401878774": {
       "firstSeenUtc": "2026-10-11T16:36:41Z",
-      "lastReadUtc": "2026-10-18T13:08:33Z",
+      "lastReadUtc": "2026-10-18T14:27:14Z",
       "players": {
         "301166": {
           "goals": 1,
@@ -1133,7 +1133,7 @@
     },
     "401878770": {
       "firstSeenUtc": "2026-10-17T14:08:30Z",
-      "lastReadUtc": "2026-10-18T13:08:33Z",
+      "lastReadUtc": "2026-10-18T14:27:14Z",
       "players": {
         "175063": {
           "goals": 1,
@@ -1143,7 +1143,7 @@
     },
     "401879262": {
       "firstSeenUtc": "2026-10-17T14:08:30Z",
-      "lastReadUtc": "2026-10-18T13:08:33Z",
+      "lastReadUtc": "2026-10-18T14:27:14Z",
       "players": {
         "235662": {
           "goals": 1,
@@ -1173,7 +1173,7 @@
     },
     "401879259": {
       "firstSeenUtc": "2026-10-17T14:08:30Z",
-      "lastReadUtc": "2026-10-18T13:08:33Z",
+      "lastReadUtc": "2026-10-18T14:27:14Z",
       "players": {
         "273292": {
           "goals": 0,
@@ -1195,7 +1195,7 @@
     },
     "401878771": {
       "firstSeenUtc": "2026-10-17T14:08:30Z",
-      "lastReadUtc": "2026-10-18T13:08:33Z",
+      "lastReadUtc": "2026-10-18T14:27:14Z",
       "players": {
         "296395": {
           "goals": 0,
@@ -1217,7 +1217,7 @@
     },
     "401879267": {
       "firstSeenUtc": "2026-10-17T14:08:30Z",
-      "lastReadUtc": "2026-10-18T13:08:33Z",
+      "lastReadUtc": "2026-10-18T14:27:14Z",
       "players": {
         "224077": {
           "goals": 0,
@@ -1227,7 +1227,7 @@
     },
     "401879258": {
       "firstSeenUtc": "2026-10-17T15:39:18Z",
-      "lastReadUtc": "2026-10-18T13:08:33Z",
+      "lastReadUtc": "2026-10-18T14:27:14Z",
       "players": {
         "386992": {
           "goals": 1,
@@ -1241,18 +1241,18 @@
     },
     "401879260": {
       "firstSeenUtc": "2026-10-18T13:08:33Z",
-      "lastReadUtc": "2026-10-18T13:08:33Z",
+      "lastReadUtc": "2026-10-18T14:27:14Z",
       "players": {
         "124091": {
           "goals": 0,
           "assists": 0
         },
         "271170": {
-          "goals": 0,
+          "goals": 1,
           "assists": 0
         },
         "197717": {
-          "goals": 0,
+          "goals": 1,
           "assists": 0
         },
         "194801": {
@@ -1261,23 +1261,23 @@
         },
         "193297": {
           "goals": 0,
-          "assists": 0
+          "assists": 1
         }
       }
     },
     "401879263": {
       "firstSeenUtc": "2026-10-18T13:08:33Z",
-      "lastReadUtc": "2026-10-18T13:08:33Z",
+      "lastReadUtc": "2026-10-18T14:27:14Z",
       "players": {
         "102368": {
-          "goals": 0,
+          "goals": 1,
           "assists": 1
         }
       }
     },
     "401879261": {
       "firstSeenUtc": "2026-10-18T13:08:33Z",
-      "lastReadUtc": "2026-10-18T13:08:33Z",
+      "lastReadUtc": "2026-10-18T14:27:14Z",
       "players": {
         "241187": {
           "goals": 0,
