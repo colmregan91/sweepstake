@@ -1,5 +1,5 @@
 {
-  "generatedUtc": "2026-10-18T14:27:14Z",
+  "generatedUtc": "2026-10-19T19:15:43Z",
   "season": "2026",
   "source": "espn-core-api",
   "players": {
@@ -115,7 +115,7 @@
     },
     "194450": {
       "name": "James Maddison",
-      "goals": 0,
+      "goals": 1,
       "assists": 0
     },
     "241187": {
