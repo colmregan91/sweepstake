@@ -1,5 +1,5 @@
 {
-  "generatedUtc": "2026-10-19T19:15:43Z",
+  "generatedUtc": "2026-10-23T20:17:12Z",
   "season": "2026",
   "source": "espn-core-api",
   "players": {
@@ -71,7 +71,7 @@
     "146679": {
       "name": "Daniel Muñoz",
       "goals": 0,
-      "assists": 0
+      "assists": 1
     },
     "197717": {
       "name": "Dominic Calvert-Lewin",
