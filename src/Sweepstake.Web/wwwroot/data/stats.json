@@ -1,5 +1,5 @@
 {
-  "generatedUtc": "2026-10-24T13:22:06Z",
+  "generatedUtc": "2026-10-24T14:24:32Z",
   "season": "2026",
   "source": "espn-core-api",
   "players": {
@@ -181,7 +181,7 @@
     "258906": {
       "name": "Viktor Gyökeres",
       "goals": 0,
-      "assists": 0
+      "assists": 1
     },
     "224077": {
       "name": "Yoane Wissa",
