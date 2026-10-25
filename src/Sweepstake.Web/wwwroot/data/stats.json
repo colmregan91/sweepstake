@@ -1,5 +1,5 @@
 {
-  "generatedUtc": "2026-10-25T14:55:03Z",
+  "generatedUtc": "2026-10-25T15:25:22Z",
   "season": "2026",
   "source": "espn-core-api",
   "players": {
@@ -65,7 +65,7 @@
     },
     "315530": {
       "name": "Dango Ouattara",
-      "goals": 0,
+      "goals": 1,
       "assists": 0
     },
     "146679": {
@@ -111,7 +111,7 @@
     "301894": {
       "name": "Igor Thiago",
       "goals": 1,
-      "assists": 1
+      "assists": 2
     },
     "194450": {
       "name": "James Maddison",
