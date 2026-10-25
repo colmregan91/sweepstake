@@ -1,5 +1,5 @@
 {
-  "generatedUtc": "2026-10-24T14:24:32Z",
+  "generatedUtc": "2026-10-25T14:55:03Z",
   "season": "2026",
   "source": "espn-core-api",
   "players": {
@@ -10,7 +10,7 @@
     },
     "235662": {
       "name": "Alexander Isak",
-      "goals": 5,
+      "goals": 6,
       "assists": 0
     },
     "273292": {
