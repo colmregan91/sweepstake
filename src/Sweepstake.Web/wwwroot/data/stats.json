@@ -1,5 +1,5 @@
 {
-  "generatedUtc": "2026-10-25T15:25:22Z",
+  "generatedUtc": "2026-10-25T15:30:26Z",
   "season": "2026",
   "source": "espn-core-api",
   "players": {
@@ -90,7 +90,7 @@
     },
     "102368": {
       "name": "Evanilson",
-      "goals": 2,
+      "goals": 3,
       "assists": 4
     },
     "303748": {
