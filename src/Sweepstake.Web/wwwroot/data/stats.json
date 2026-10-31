@@ -1,5 +1,5 @@
 {
-  "generatedUtc": "2026-10-25T15:30:26Z",
+  "generatedUtc": "2026-10-31T16:00:16Z",
   "season": "2026",
   "source": "espn-core-api",
   "players": {
@@ -60,7 +60,7 @@
     },
     "296395": {
       "name": "Cole Palmer",
-      "goals": 2,
+      "goals": 3,
       "assists": 3
     },
     "315530": {
@@ -90,7 +90,7 @@
     },
     "102368": {
       "name": "Evanilson",
-      "goals": 3,
+      "goals": 4,
       "assists": 4
     },
     "303748": {
@@ -155,7 +155,7 @@
     },
     "265653": {
       "name": "Morgan Rogers",
-      "goals": 4,
+      "goals": 5,
       "assists": 1
     },
     "132659": {
