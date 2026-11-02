@@ -1,5 +1,5 @@
 {
-  "generatedUtc": "2026-11-01T17:04:04Z",
+  "generatedUtc": "2026-11-02T21:07:38Z",
   "season": "2026",
   "source": "espn-core-api",
   "players": {
@@ -175,7 +175,7 @@
     },
     "301166": {
       "name": "Thierno Barry",
-      "goals": 3,
+      "goals": 4,
       "assists": 0
     },
     "258906": {
