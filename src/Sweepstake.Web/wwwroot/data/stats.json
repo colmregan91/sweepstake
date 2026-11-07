@@ -1,5 +1,5 @@
 {
-  "generatedUtc": "2026-11-07T16:47:18Z",
+  "generatedUtc": "2026-11-07T20:46:05Z",
   "season": "2026",
   "source": "espn-core-api",
   "players": {
@@ -151,7 +151,7 @@
     "243396": {
       "name": "Morgan Gibbs-White",
       "goals": 1,
-      "assists": 2
+      "assists": 3
     },
     "265653": {
       "name": "Morgan Rogers",
