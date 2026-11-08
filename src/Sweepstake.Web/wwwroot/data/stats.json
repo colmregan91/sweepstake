@@ -1,5 +1,5 @@
 {
-  "generatedUtc": "2026-11-07T20:46:05Z",
+  "generatedUtc": "2026-11-08T15:17:23Z",
   "season": "2026",
   "source": "espn-core-api",
   "players": {
@@ -81,7 +81,7 @@
     "257206": {
       "name": "Dominik Szoboszlai",
       "goals": 1,
-      "assists": 0
+      "assists": 1
     },
     "253989": {
       "name": "Erling Haaland",
@@ -90,12 +90,12 @@
     },
     "102368": {
       "name": "Evanilson",
-      "goals": 4,
+      "goals": 5,
       "assists": 4
     },
     "303748": {
       "name": "Florian Wirtz",
-      "goals": 0,
+      "goals": 1,
       "assists": 2
     },
     "194801": {
@@ -160,7 +160,7 @@
     },
     "132659": {
       "name": "Pascal Groß",
-      "goals": 3,
+      "goals": 4,
       "assists": 4
     },
     "268533": {
