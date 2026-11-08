@@ -1,5 +1,5 @@
 {
-  "generatedUtc": "2026-11-08T16:58:47Z",
+  "generatedUtc": "2026-11-08T17:18:57Z",
   "season": "2026",
   "source": "espn-core-api",
   "players": {
@@ -190,7 +190,7 @@
     },
     "193297": {
       "name": "Youri Tielemans",
-      "goals": 0,
+      "goals": 1,
       "assists": 1
     }
   }
