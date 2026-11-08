@@ -1,5 +1,5 @@
 {
-  "generatedUtc": "2026-11-08T17:18:57Z",
+  "generatedUtc": "2026-11-08T18:29:25Z",
   "season": "2026",
   "source": "espn-core-api",
   "players": {
@@ -31,7 +31,7 @@
     "124091": {
       "name": "Bruno Fernandes",
       "goals": 4,
-      "assists": 1
+      "assists": 2
     },
     "218522": {
       "name": "Bruno Guimarães",
