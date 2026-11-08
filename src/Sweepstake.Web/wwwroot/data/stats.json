@@ -1,5 +1,5 @@
 {
-  "generatedUtc": "2026-11-08T15:17:23Z",
+  "generatedUtc": "2026-11-08T16:58:47Z",
   "season": "2026",
   "source": "espn-core-api",
   "players": {
@@ -10,7 +10,7 @@
     },
     "235662": {
       "name": "Alexander Isak",
-      "goals": 6,
+      "goals": 7,
       "assists": 0
     },
     "273292": {
@@ -30,7 +30,7 @@
     },
     "124091": {
       "name": "Bruno Fernandes",
-      "goals": 3,
+      "goals": 4,
       "assists": 1
     },
     "218522": {
@@ -96,7 +96,7 @@
     "303748": {
       "name": "Florian Wirtz",
       "goals": 1,
-      "assists": 2
+      "assists": 3
     },
     "194801": {
       "name": "Harry Wilson",
